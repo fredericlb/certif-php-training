@@ -21,12 +21,13 @@ $nombres = [
 ];
 
 
-// renvoie true pour les valeurs identifiées par oui dans $nombres
+// renvoie la partie entière pour les valeurs identifiées par oui dans $nombres
+// renvoie null sinon
 function extraire($valeur) {
-    // TODO
+    // TODO 
 }
 
-// boucle sur $nombres, on stocke ceux pour lesquelles extraire vaut true
+// boucle sur $nombres, on stocke ceux pour lesquelles extraire ne vaut pas null
 
 // on affiche toutes les valeurs séparées par un tiret
 
