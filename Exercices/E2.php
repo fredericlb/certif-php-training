@@ -1,5 +1,12 @@
 <?php
 
+/**
+ * HEREDOC/NOWDOW
+ * $$
+ * file / file_get_contents / file_put_contents
+ * Passage par référence
+ * str_replace
+ */
 
 function exercice2($var) {
     $a = "Dans le port d’Amsterdam";
