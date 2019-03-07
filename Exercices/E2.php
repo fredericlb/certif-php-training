@@ -20,8 +20,12 @@ exercice2("c");
 // PART 3 : Ajouter un long lorem ipsum sans interpolation ici
 $longTexte = '';
 
+
 // PART 4 Ecrire la fonction remplacerLorem, qui remplace le mot Lorem par 'ornithorynque'
 // dans longTexte, mais qui ne renvoie rien (elle modifie)
 
 
-var_dump($longTexte);
+
+remplacerLorem($longTexte);
+
+var_dump();
